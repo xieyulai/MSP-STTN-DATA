@@ -5,7 +5,7 @@ Please cite the following paper if you use this repository in your research.
 ```
 Under construction
 ```
-This repo is for *data preparation*, more information can be found in [MSP-STTN](https://github.com/xieyulai/MSP-STTN). 
+This repo is for **data preparation**, more information can be found in [MSP-STTN](https://github.com/xieyulai/MSP-STTN). 
 
 ## MSP-STTN-DATA
 
