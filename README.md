@@ -11,7 +11,7 @@ This repo is for *data preparation*, more information can be found in [MSP-STTN]
 
 ### Raw Data
 - Find the original data **TaxiBJ** and **BikeNYC** from [ATFM](https://github.com/liulingbo918/ATFM).
-- Find the original data **CrowdDensityBJ** from [here](https://www.datafountain.cn/competitions/428/datasets) or [here](https://github.com/agave233/2020-CCF-Crowd-Flow-Prediction).
+- Find the original data **CrowdDensityBJ** from [AI Competition](https://www.datafountain.cn/competitions/428/datasets) or [there is a BAIDU PAN link](https://github.com/agave233/2020-CCF-Crowd-Flow-Prediction).
 
 
 ### TaxiBJ
